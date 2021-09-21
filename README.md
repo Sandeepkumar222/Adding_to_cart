@@ -1,3 +1,6 @@
+A Simple code to count the number of objects added to cart
+https://blissful-murdock-c6373d.netlify.app/#
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
